@@ -1,3 +1,5 @@
 branch 1 is a really cool branch
 
 another line
+
+line 2
